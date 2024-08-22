@@ -1,0 +1,72 @@
+body{
+	background-color: white;
+	height: vh;
+	letter-spacing: 2px;
+	border: 5px solid black;
+	border-radius: 10px 10px 10px 10px;
+	border-spacing: 300px;
+	margin: 80px ;
+
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family:sans-serif;
+	
+}
+
+hr{
+	size: 5em;
+	color: black;
+}
+
+.contact{
+	text-align: center;
+}
+.contact p,a{
+	text-align: center;
+}
+.profilename p{
+	padding: 10px 10px 10px 20px;
+	margin-top:5px;
+	text-align: center;
+	letter-spacing: 3px;
+}
+.profilename h1,p{
+	margin-bottom: 10px;
+	text-align: center;
+}
+.heading{
+	text-decoration: underline;
+	color: skyblue;
+
+}
+
+.duration{
+	text-align: right;
+	margin-left: 800px;
+}
+.skill{
+	text-align: center;
+	height: 100px;
+}
+button{
+	border: none;
+	margin: 10px;
+	background-color: lightslategrey;
+	color: white;
+	align-items: start;
+}
+ul,li{
+list-style: none;
+	padding: 10px;
+	
+}
+.skill .heading{
+	text-align: left;
+}
+	
+h3{
+	font-weight: bold;
+
+}
